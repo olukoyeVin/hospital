@@ -8,3 +8,5 @@ Report generation: The system allows you to generate reports on patient data, ap
 Requirements
 The system requires a web server, a database server, and a PHP interpreter.
 The system is compatible with most web browsers.
+
+/**one folder not uploaded C:/XAMPP/htdocs/....**/
